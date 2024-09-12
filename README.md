@@ -28,4 +28,6 @@ When you start the program, you will be prompted with a menu offering several op
 - IF 1 selected enter the decimal like 1.2 or 2.34 (to 2 decmial places)
 - if 2 selected enter odds like for example 3/5 (fractional format)
 
-- 
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
