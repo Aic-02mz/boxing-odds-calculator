@@ -32,4 +32,10 @@ When you start the program, you will be prompted with a menu offering several op
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Output
 
+<img width="427" alt="output" src="https://github.com/user-attachments/assets/05b54f9c-fa46-429d-8337-c2f3cd88679f">
+
+## Inspiration 
+
+<img width="673" alt="inspiraiton" src="https://github.com/user-attachments/assets/db174de2-4b13-4384-941e-9a1e95b29178">
