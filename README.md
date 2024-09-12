@@ -4,6 +4,8 @@
 
 The **Boxing Odds Calculator** is a Python-based command-line tool that helps users convert between decimal and fractional betting odds for boxing matches and calculates implied probability based on the given odds. This program was inspired by the functionality of the AceOdds Odds Converter and provides a basic, non-GUI interface for working with odds.
 
+[AceOdds Odds Converter](https://www.aceodds.com/odds-converter.html)
+
 ## How it Works
 
 When you start the program, you will be prompted with a menu offering several options for working with odds:
